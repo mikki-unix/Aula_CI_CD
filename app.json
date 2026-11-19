@@ -1,7 +1,7 @@
 {
   "expo": {
-    "name": "exercicio-teste-unitarios",
-    "slug": "exercicio-teste-unitarios",
+    "name": "MIKKI_AURORA_RA01242083_CI_CD",
+    "slug": "MIKKI_AURORA_RA01242083_CI_CD",
     "version": "1.0.0",
     "orientation": "portrait",
     "icon": "./assets/icon.png",
@@ -24,6 +24,11 @@
     },
     "web": {
       "favicon": "./assets/favicon.png"
+    },
+    "extra": {
+      "eas": {
+        "projectId": "8e56b40b-4170-4360-8d89-32ae7d3368d4"
+      }
     }
   }
 }
